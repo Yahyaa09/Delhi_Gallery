@@ -51,7 +51,6 @@ h1{
 
 .images:hover img{
     filter: grayscale(0);
-
 }
 
 #image5 img {
@@ -70,7 +69,6 @@ h1{
     font-weight: 500;
     color: #fff;
     opacity: 0;
-    border-radius: 0 0 10px 10px;
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.5) 0%, rgba(255, 255, 255, 0) 100%);
     transition: 0.3s;
   }
